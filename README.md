@@ -1,5 +1,7 @@
 # Rocket Launches Worldwide
 
+<img width="1693" height="879" alt="image" src="https://github.com/user-attachments/assets/79a8e181-544b-4396-b7c0-83b5ac0d5341" />
+
 An interactive 3D globe showing upcoming rocket launches around the world, with live countdowns.
 
 ## Features
